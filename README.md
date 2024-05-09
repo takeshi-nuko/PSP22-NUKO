@@ -9,7 +9,7 @@ Below is a simple example of how to build.
 ## 1. Example of OS used
 ubuntu-22.04.4-desktop-amd64
 
-Installation configuration - Minimal
+Installation configuration: Minimal
 
 ## 2. Installing required packages
 ```
@@ -118,6 +118,10 @@ found at "FILENAME.ext".
 Meow.
 
 ## Reference
+Cardinal-Cryptography / PSP22
+
+https://github.com/Cardinal-Cryptography/PSP22
+
 Installing required tools: docs.alephzero.org
 
 https://docs.alephzero.org/aleph-zero/build/aleph-zero-smart-contracts-basics/installing-required-tools
